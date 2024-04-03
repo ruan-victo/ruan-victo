@@ -1,5 +1,5 @@
 ### Hi there 📝
-Sou Ruan Victor, sou uma programador Front-End. Neste período, estou focando em aprofundar-me nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades. Costumam me descrever como atencioso, motivado, um bom ouvinte e proativo quando enfrento desafios. Estou sempre em busca de novas oportunidades que me permitam crescer profissionalmente e aperfeiçoar as minhas soft skills, para assim, aplicar meus conhecimentos e contribuir para o desenvolvimento do setor da tecnologia.
+Sou Ruan Victor, sou um programador Front-End. Neste período, estou focando em aprofundar-me nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades. Costumam me descrever como atencioso, motivado, um bom ouvinte e proativo quando enfrento desafios. Estou sempre em busca de novas oportunidades que me permitam crescer profissionalmente e aperfeiçoar as minhas soft skills, para assim, aplicar meus conhecimentos e contribuir para o desenvolvimento do setor da tecnologia.
 <br>
 <br> 
 Atualmente estou aprendendo e criando projetos com:
