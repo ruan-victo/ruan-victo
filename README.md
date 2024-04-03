@@ -26,7 +26,6 @@ Me chamo Ruan Victor sou Programdor Front End, atualmente estou estudando e cria
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-victo)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ruan-victor stats](https://github-readme-stats.vercel.app/api?username=ruan-victo)](https://github.com/anuraghazra/github-readme-stats)
 
 
